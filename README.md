@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-th
+this is a social media app developed by react using frond end and express using backend.
 
 ## Available Scripts
 
